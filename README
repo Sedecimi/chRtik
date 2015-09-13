@@ -1,0 +1,11 @@
+A small messanger in local network (Just for fun)
+
+--help  - show this page
+
+-s "path_to_cfg.srv" - start as server (using for retranslate messages) with "path_to_cfg.srv" configuration.
+
+-c server_ip - start as client on "server_ip" server.
+
+--server-cfg "path_to_save"  - configurate server with save it in "path_to_save"
+
+-r server_ip  - register on server_ip server 
